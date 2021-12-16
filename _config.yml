@@ -27,3 +27,7 @@ plugins:
   - jekyll-gist
 
 highlighter: rouge
+
+sass:
+  sass_dir: _sass
+  style: compressed
